@@ -1,4 +1,4 @@
-This is a repository based on a student in my research group making a comment that the code being used took a few days to run. Based on what was trying to be accomplished, that sounded like an unreasonable amount of time and offered to take a look. We went through the code together in two iterations and I hope to capture and share that interaction because I see these tendencies often.
+This is a repository based on a student in my research group making a comment that the code being used took a few days to run. Based on what was trying to be accomplished, that sounded like an unreasonable amount of time and offered to take a look. We went through the code together in two iterations and I hope to capture and share that interaction because I see these tendencies often. After completing the second iteration, we were able to reduce the runtime to roughly a minute with a majority of the overhead in loading the data from the disk.
 
 ## Astronomy Background
 
